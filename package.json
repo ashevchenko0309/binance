@@ -12,8 +12,10 @@
   },
   "dependencies": {
     "request": "^2.82.0",
+    "bignumber.js": "^6.0.0",
+    "retry": "^0.10.1",
     "underscore": "^1.8.3",
-    "ws": "^3.3.1"
+    "ws": "^4.0.0"
   },
   "repository": {
     "type": "git",
